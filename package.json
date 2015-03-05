@@ -38,7 +38,7 @@
   "dependencies": {
     "lodash": "^3.3.1",
     "postal": "^1.0.0",
-    "riveter": "../dev-studio/npm_packages/riveter"
+    "riveter": "../dev-studio/submodules/riveter"
   },
   "bundleDependencies": [
     "lodash",
@@ -60,7 +60,7 @@
     "open": "~0.0.4",
     "expect.js": "~0.2.0",
     "lodash": "^3.3.1",
-    "postal.xframe" : "../npm_packages/postal.xframe"
+    "postal.xframe" : "../submodules/postal.xframe"
   },
   "licenses": [{
     "type": "MIT",
